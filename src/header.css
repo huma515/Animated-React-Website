@@ -362,14 +362,17 @@
 }
 
 .loader-butterfly {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
+ 
   z-index: 1;
   position: absolute
 }
 
 .loader-text {
-  font-size: 4rem;
+  font-size: 5rem;
+  font-weight: bolder;
+  font-style: italic;
   z-index: 1;
   display: flex;
   margin-left: 20px;

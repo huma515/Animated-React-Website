@@ -37,9 +37,9 @@ function Header() {
         <img data-aos="fade-down" src="/images/cloudbg.png" className="bg cloud-1" alt="Cloud 1" />
         <img data-aos="fade-right" src="/images/cyclebg.png" className="bg cycle" alt="Cycle" />
         <img data-aos="fade-down" src="/images/greencloudbg.png" className="bg cloud-2" alt="Cloud 2" />
-        <img data-aos="fade-left" src="/images/leaf2bg.png" className="bg leaf-3" alt="Leaf 3" />
+        {/* <img data-aos="fade-left" src="/images/leaf2bg.png" className="bg leaf-3" alt="Leaf 3" /> */}
         <img data-aos="fade-left" src="/images/leaf3bg.png" className="bg leaf-4" alt="Leaf 4" />
-        <img data-aos="fade-right" src="/images/leaf4bg.png" className="bg leaf-5" alt="Leaf 5" />
+        {/* <img data-aos="fade-right" src="/images/leaf4bg.png" className="bg leaf-5" alt="Leaf 5" /> */}
         <img data-aos="fade-left" src="/images/h3leaf.png" className="bg leaf-skin" alt="Leaf Skin" />
         
         <img src="/images/pinkdotbg.png" className="bg dot" alt="Dot" />
